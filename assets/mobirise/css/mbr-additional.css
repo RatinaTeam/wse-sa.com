@@ -988,7 +988,7 @@ a {
   background-image: url("../../../assets/images/background7.svg");
 }
 .cid-taTzEGWEe0 .mbr-overlay {
-  background: #fafafa;
+  background: #f6f9ff;
   opacity: 0.8;
 }
 .cid-taTzEGWEe0 img,
@@ -1037,6 +1037,75 @@ a {
 }
 .cid-taTzEGWEe0 .item-subtitle {
   text-align: center;
+}
+.cid-taVovuZrTc {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/background7.svg");
+}
+.cid-taVovuZrTc .card {
+  padding: 3rem;
+  background: transparent;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #B2B2B2;
+}
+.cid-taVovuZrTc .mbr-iconfont {
+  font-size: 50px;
+  color: #123979;
+}
+.cid-taVovuZrTc .iconfont-wrapper {
+  padding-bottom: 10px;
+  text-align: right;
+}
+.cid-taVovuZrTc img {
+  border-radius: 50%;
+  height: 70px;
+  width: auto;
+}
+.cid-taVovuZrTc .user_image {
+  margin-left: 6px;
+}
+.cid-taVovuZrTc .title {
+  color: #1d1d1f;
+  text-align: right;
+  margin-bottom: 0;
+  font-weight: 700;
+}
+.cid-taVovuZrTc .mbr-section-subtitle {
+  text-align: right;
+  padding-bottom: 5px;
+  margin-bottom: 0;
+  font-weight: 500;
+  color: #4c4c4c;
+}
+.cid-taVovuZrTc .row {
+  align-items: center;
+}
+.cid-taVovuZrTc .top {
+  margin-top: 40px;
+}
+.cid-taVovuZrTc .small {
+  font-weight: 500;
+  padding-left: 15px;
+}
+.cid-taVovuZrTc .no-padding {
+  padding: 0 7px;
+}
+@media (max-width: 690px) {
+  .cid-taVovuZrTc .iconfont-wrapper {
+    margin-top: 30px;
+  }
+  .cid-taVovuZrTc .card {
+    padding: 1rem;
+  }
+  .cid-taVovuZrTc .quote-mark {
+    display: none;
+  }
+  .cid-taVovuZrTc .mbr-section-subtitle {
+    margin-bottom: 10px;
+  }
 }
 .cid-tagLvgOtfW {
   padding-top: 6rem;
@@ -1389,6 +1458,7 @@ a {
 .cid-sV2ZHXzvgO .media-container-row .mbr-text {
   text-align: center;
   color: #f8f8f8;
+  font-size: 11px;
 }
 body{
     direction:rtl;
@@ -1616,6 +1686,7 @@ form .row [class*=col]{padding-left:0.6rem;padding-right:0.6rem}form .mbr-sectio
 .cid-sV3591AkAr .media-container-row .mbr-text {
   text-align: center;
   color: #f8f8f8;
+  font-size: 11px;
 }
 .cid-taTgIDicPZ .dropdown-item:before {
   font-family: MobiriseIcons !important;
