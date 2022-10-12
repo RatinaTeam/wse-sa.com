@@ -70,16 +70,18 @@
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icon-100x90.png",
-    "mbrsiteDomain": "l506bt76fu",
+    "mbrsiteDomain": "o1cyhfzr4s",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-245266905-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-245266905-1');\n</script>",
+    "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>",
     "global_footer_custom": "<script  src=\"https://cdn.ratina.co/js/helper-v11.js?c=w&l=en\" ></script>",
-    "chatbutton": {}
+    "chatbutton": {},
+    "publishType": "local",
+    "publishPath": "file:///Users/abdo/Workshop/WSE-SA.com"
   },
   "pages": {
     "index.html": {
